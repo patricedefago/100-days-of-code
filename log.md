@@ -13,13 +13,13 @@
 
 Happy and worried
 
-**Link to work:** [Twitter](href="https://twitter.com/PatriceDefago")
+**Link to work:** [Twitter]("https://twitter.com/PatriceDefago")
 
 ### Day 1: January 05, 2017
 
 **Today's Progress**:
-* start tribut page challenge on [free Code Camp](href="https://www.freecodecamp.com/")
-* start working with [Codepen](href="http://codepen.io/")
+* start tribut page challenge on [free Code Camp]("https://www.freecodecamp.com/")
+* start working with [Codepen]("http://codepen.io/")
 
 **Thoughts:**
 

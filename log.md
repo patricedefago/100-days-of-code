@@ -31,5 +31,26 @@ I work with pleasur.
 * on Codepen, only the content (body) are necessary in the editor
 * if you want a meta tag, go to the html settings
 
+**Link to work:** [Codepen](http://codepen.io/patricedefago/pen/BpyWaM)
+
+### Day 2: January 06, 2017
+
+**Today's Progress**:
+* finish content of my tribut page challenge on [free Code Camp](https://www.freecodecamp.com/).  
+Next, stylling a little bit.
+* discover more [Codepen](http://codepen.io/)
+* try Emmet
+
+**Thoughts:**
+
+Happy to code more than last 4 month
+
+**Notes:**
+
+* Emmet it's very cool
+* blockquote is for block quote
+* q is for inline quote
+* cite is for title of work
+* attribut  cite is for the quote source
 
 **Link to work:** [Codepen](http://codepen.io/patricedefago/pen/BpyWaM)

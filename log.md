@@ -54,3 +54,19 @@ Happy to code more than last 4 month
 * attribut  cite is for the quote source
 
 **Link to work:** [Codepen](http://codepen.io/patricedefago/pen/BpyWaM)
+
+### Day 3: January 07, 2017
+
+**Today's Progress**:
+* finish my tribut page challenge on [free Code Camp](https://www.freecodecamp.com/).  
+* discover Bootstrap
+
+**Thoughts:**
+
+Bootstrap is cool, but a little rigid.
+
+**Notes:**
+
+* Bootstrap class jumbotron, it's an easy way to make a cool style
+
+**Link to work:** [Codepen](http://codepen.io/patricedefago/full/BpyWaM/)

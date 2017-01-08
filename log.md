@@ -70,3 +70,32 @@ Bootstrap is cool, but a little rigid.
 * Bootstrap class jumbotron, it's an easy way to make a cool style
 
 **Link to work:** [Codepen](http://codepen.io/patricedefago/full/BpyWaM/)
+
+### Day 4: January 08, 2017
+
+**Today's Progress**:
+* start my sales page of my Facebook Page courses
+* work on my personnal website
+  * fix some brocken links
+  * add news favicons
+* work with [ImageMagick](https://www.imagemagick.org/script/index.php)
+* studie some articles who speak favicons
+* add news little skills on Git
+
+**Thoughts:**
+
+Work done Today.
+
+I'm on the good mood.
+
+Finally working a little on my website. 
+
+**Notes:**
+
+* favicons size have change a bit. It's necessary to check all my favicons and updates them.
+
+**Link to work:**
+
+[Sales page](https://github.com/patricedefago/sales_page)
+
+[My personnal website](https://patdef-webdesign.ch)

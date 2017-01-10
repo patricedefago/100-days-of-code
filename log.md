@@ -88,7 +88,7 @@ Work done Today.
 
 I'm on the good mood.
 
-Finally working a little on my website. 
+Finally working a little on my website.
 
 **Notes:**
 
@@ -99,3 +99,25 @@ Finally working a little on my website.
 [Sales page](https://github.com/patricedefago/sales_page)
 
 [My personnal website](https://patdef-webdesign.ch)
+
+### Day 5: January 09, 2017
+
+**Today's Progress**:
+* start Daily CSS Images challenge
+* read some articles on z-index
+
+**Thoughts:**
+
+Work a little Today, but I learned a lot.
+
+I'm tired.
+
+**Notes:**
+
+* z-index is complicate
+
+**Link to work:**
+
+[Daily CSS Images - A Beginner’s Guide to Pure CSS Images](https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.6waqbgbql)
+
+[An Intermediate Guide to Pure CSS Images](https://medium.com/dailycssimages/an-intermediate-guide-to-pure-css-images-f058e2b30697#.y49xi1dfb)

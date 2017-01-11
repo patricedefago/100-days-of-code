@@ -142,3 +142,22 @@ I'm tired.
 **Link to work:**
 
 No work to see Today, but much more learning
+
+### Day 7: January 11, 2017
+
+**Today's Progress**:
+* working on my sales page
+* working a little with Emmet
+* buy a domain name for my sales page
+
+**Thoughts:**
+
+My page move, but not fast enough
+
+**Notes:**
+
+* copywriting's no easy
+
+**Link to work:**
+
+No work to see Today

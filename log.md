@@ -121,3 +121,24 @@ I'm tired.
 [Daily CSS Images - A Beginner’s Guide to Pure CSS Images](https://medium.com/dailycssimages/a-beginners-guide-to-pure-css-images-ef9a5d069dd2#.6waqbgbql)
 
 [An Intermediate Guide to Pure CSS Images](https://medium.com/dailycssimages/an-intermediate-guide-to-pure-css-images-f058e2b30697#.y49xi1dfb)
+
+### Day 6: January 10, 2017
+
+**Today's Progress**:
+* start with Adobe XD
+* watch tutoriel on YouTube [DevTips "Getting Started With Adobe XD"](https://www.youtube.com/watch?v=mMot_MLWZ0E&list=PLqGj3iMvMa4L_PVMlG3_KIN5QTSaZwLnn)
+* work on my sales page
+
+**Thoughts:**
+
+Work a little Today, but I learned a lot.
+
+I'm tired.
+
+**Notes:**
+
+* Adobe XD seems cool
+
+**Link to work:**
+
+No work to see Today, but much more learning

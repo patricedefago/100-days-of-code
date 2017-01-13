@@ -161,3 +161,21 @@ My page move, but not fast enough
 **Link to work:**
 
 No work to see Today
+
+### Day 8: January 12, 2017
+
+**Today's Progress**:
+* working on my sales page
+* working on some videos for a client
+
+**Thoughts:**
+
+Some Progress Today.
+
+**Notes:**
+
+* kiss!
+
+**Link to work:**
+
+No work to see Today

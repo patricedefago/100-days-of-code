@@ -179,3 +179,22 @@ Some Progress Today.
 **Link to work:**
 
 No work to see Today
+
+### Day 9: January 13, 2017
+
+**Today's Progress**:
+* working on my sales page
+* contact some clients for futurs projects
+* shooting a video for web site analysis, for a client
+
+**Thoughts:**
+
+Some Progress Today, but to many things to make.
+
+**Notes:**
+
+* every day is enough it pains
+
+**Link to work:**
+
+No work to see Today

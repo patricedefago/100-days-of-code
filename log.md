@@ -198,3 +198,37 @@ Some Progress Today, but to many things to make.
 **Link to work:**
 
 No work to see Today
+
+### Day 10: January 14, 2017
+
+**Today's Progress**:
+* editing some videos for a client
+
+**Thoughts:**
+
+The project coming soon at the end
+
+**Notes:**
+
+* No notes Today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 11: January 15, 2017
+
+**Today's Progress**:
+* editing some videos for a client
+
+**Thoughts:**
+
+The project coming soon at the end
+
+**Notes:**
+
+* No notes Today
+
+**Link to work:**
+
+No work to see Today

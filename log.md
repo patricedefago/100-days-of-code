@@ -3,6 +3,7 @@
 ### Day 0: January 04, 2017
 
 **Today's Progress**:
+
 * forking repository
 * create a Twitter account
 * edit files
@@ -18,6 +19,7 @@ Happy and worried
 ### Day 1: January 05, 2017
 
 **Today's Progress**:
+
 * start tribut page challenge on [free Code Camp](https://www.freecodecamp.com/)
 * start working with [Codepen](http://codepen.io/)
 
@@ -36,6 +38,7 @@ I work with pleasur.
 ### Day 2: January 06, 2017
 
 **Today's Progress**:
+
 * finish content of my tribut page challenge on [free Code Camp](https://www.freecodecamp.com/).  
 Next, stylling a little bit.
 * discover more [Codepen](http://codepen.io/)
@@ -58,6 +61,7 @@ Happy to code more than last 4 month
 ### Day 3: January 07, 2017
 
 **Today's Progress**:
+
 * finish my tribut page challenge on [free Code Camp](https://www.freecodecamp.com/).  
 * discover Bootstrap
 
@@ -74,6 +78,7 @@ Bootstrap is cool, but a little rigid.
 ### Day 4: January 08, 2017
 
 **Today's Progress**:
+
 * start my sales page of my Facebook Page courses
 * work on my personnal website
   * fix some brocken links
@@ -103,6 +108,7 @@ Finally working a little on my website.
 ### Day 5: January 09, 2017
 
 **Today's Progress**:
+
 * start Daily CSS Images challenge
 * read some articles on z-index
 
@@ -125,6 +131,7 @@ I'm tired.
 ### Day 6: January 10, 2017
 
 **Today's Progress**:
+
 * start with Adobe XD
 * watch tutoriel on YouTube [DevTips "Getting Started With Adobe XD"](https://www.youtube.com/watch?v=mMot_MLWZ0E&list=PLqGj3iMvMa4L_PVMlG3_KIN5QTSaZwLnn)
 * work on my sales page
@@ -146,6 +153,7 @@ No work to see Today, but much more learning
 ### Day 7: January 11, 2017
 
 **Today's Progress**:
+
 * working on my sales page
 * working a little with Emmet
 * buy a domain name for my sales page
@@ -165,6 +173,7 @@ No work to see Today
 ### Day 8: January 12, 2017
 
 **Today's Progress**:
+
 * working on my sales page
 * working on some videos for a client
 
@@ -183,6 +192,7 @@ No work to see Today
 ### Day 9: January 13, 2017
 
 **Today's Progress**:
+
 * working on my sales page
 * contact some clients for futurs projects
 * shooting a video for web site analysis, for a client
@@ -202,6 +212,7 @@ No work to see Today
 ### Day 10: January 14, 2017
 
 **Today's Progress**:
+
 * editing some videos for a client
 
 **Thoughts:**
@@ -219,6 +230,7 @@ No work to see Today
 ### Day 11: January 15, 2017
 
 **Today's Progress**:
+
 * editing some videos for a client
 
 **Thoughts:**
@@ -232,3 +244,44 @@ The project coming soon at the end
 **Link to work:**
 
 No work to see Today
+
+### Day 12: January 16, 2017
+
+**Today's Progress**:
+
+* editing some videos for a client
+* working on my website
+
+**Thoughts:**
+
+No god work today
+
+**Notes:**
+
+* No notes Today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 13: January 17, 2017
+
+**Today's Progress**:
+
+* editing some videos for a client
+* working on my website
+* add a local server on my laptop (but no work)
+
+**Thoughts:**
+
+No god work today, I'm angry.
+
+**Notes:**
+
+* Windows 10 it's no good for a local server
+
+**Link to work:**
+
+No work to see Today
+
+

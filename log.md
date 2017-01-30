@@ -508,3 +508,28 @@ Not happy.
 **Link to work:**
 
 No work to see Today
+
+### Day 26: January 30, 2017
+
+**Today's Progress**:
+
+* working with Git and Github
+* studing some Git stuff
+* add a repository on Github
+
+**Thoughts:**
+
+Code is hard to learn.
+
+Many working hours to learn news skills.
+
+Not happy.
+
+**Notes:**
+
+* Always git init ;)
+
+**Link to work:**
+
+[Forms template](https://github.com/patricedefago/model_forms)
+

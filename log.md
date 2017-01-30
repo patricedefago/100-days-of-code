@@ -303,4 +303,208 @@ Happy to work on my website.
 
 No work to see Today
 
+### Day 15: January 19, 2017
 
+**Today's Progress**:
+
+* working on my website
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 16: January 20, 2017
+
+**Today's Progress**:
+
+* working on my website
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 17: January 21, 2017
+
+**Today's Progress**:
+
+* working on my website
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 18: January 22, 2017
+
+**Today's Progress**:
+
+* working on my website
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 19: January 23, 2017
+
+**Today's Progress**:
+
+* working on my website
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
+
+### Day 20: January 24, 2017
+
+**Today's Progress**:
+
+* working on my website
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 21: January 25, 2017
+
+**Today's Progress**:
+
+* working on my website
+* working with Git and Github
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 22: January 26, 2017
+
+**Today's Progress**:
+
+* working on my website
+* working with Git and Github
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 23: January 27, 2017
+
+**Today's Progress**:
+
+* working on my website
+* working with Git and Github
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 24: January 28, 2017
+
+**Today's Progress**:
+
+* working on my website
+* working with Git and Github
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
+### Day 25: January 29, 2017
+
+**Today's Progress**:
+
+* working on my website
+* working with Git and Github
+
+**Thoughts:**
+
+My website is no ready and I don't like it for this moment.
+
+Not happy.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today

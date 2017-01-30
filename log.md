@@ -284,4 +284,23 @@ No god work today, I'm angry.
 
 No work to see Today
 
+### Day 14: January 18, 2017
+
+**Today's Progress**:
+
+* working on my website
+* watching some courses
+
+**Thoughts:**
+
+Happy to work on my website.
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see Today
+
 

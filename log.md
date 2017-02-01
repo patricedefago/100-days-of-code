@@ -533,3 +533,44 @@ Not happy.
 
 [Forms template](https://github.com/patricedefago/model_forms)
 
+### Day 27: January 31, 2017
+
+**Today's Progress**:
+
+* working with Git and Github
+* working width Adobe XD
+
+**Thoughts:**
+
+I have some ideas for my website, but no time
+
+**Notes:**
+
+* No notes today
+
+**Link to work:**
+
+No work to see today
+
+### Day 28: February 01, 2017
+
+**Today's Progress**:
+
+* add news fonts on my websites
+* add new footer on my website
+* fix bugs on my website
+
+**Thoughts:**
+
+Cool, finally I have change something on my website
+
+**Notes:**
+
+* Always git init ;)
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+
+
+

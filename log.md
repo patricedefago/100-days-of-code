@@ -572,5 +572,166 @@ Cool, finally I have change something on my website
 
 [My website](https://patdef-webdesign.ch)
 
+### Day 29: February 02, 2017
+
+**Today's Progress**:
+
+* working on my website header
+* watching some videos on WordPress and Divi
+
+**Thoughts:**
+
+Always a little things to do
+
+**Notes:**
+
+* WordPress order CSS change:
+	* WordPress option
+	* Theme option
+	* Stylesheet children option
+	* link or import option
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+Tutoriel WordPress: [Elegent School](https://elegant.school/)
+
+### Day 30: February 03, 2017
+
+**Today's Progress**:
+
+* working on a header WordPress
+* watching some videos on WordPress and Divi
+
+**Thoughts:**
+
+WordPress and the CMS, in general, is cool, but a little heavy and rigid.
+
+Sometimes, if you want overide a CSS rule, the only thing you can do, is to put a !important rule.
+
+Not a great practice.
+
+**Notes:**
+
+* Divi is a great theme, but not complete for me.
+
+**Link to work:**
+
+Only the [header](http://sitepa.castorsang.odns.fr/) is mine
+Tutoriel WordPress: [Elegent School](https://elegant.school/)
+
+### Day 31: February 04, 2017
+
+**Today's Progress**:
+
+* working on a header WordPress
+* watching some videos on WordPress and Divi
+
+**Thoughts:**
+
+WordPress and the CMS, in general, is cool, but a little heavy and rigid.
+
+Sometimes, if you want overide a CSS rule, the only thing you can do, is to put a !important rule.
+
+Not a great practice.
+
+**Notes:**
+
+* Divi is a great theme, but not complete for me.
+
+**Link to work:**
+
+Only the [header](http://sitepa.castorsang.odns.fr/) is mine
+Tutoriel WordPress: [Elegent School](https://elegant.school/)
+
+### Day 31: February 05, 2017
+
+**Today's Progress**:
+
+* working on a header WordPress
+* you can put a multiple background with linear-gradient [CSS Tricks](https://css-tricks.com/css3-gradients/)
+
+**Thoughts:**
+
+CSS is very powerfull.
+
+Some things you can do with this.
+
+**Notes:**
+
+* gradient is a background-image
+* you can have multiple background with a clean break
+
+**Link to work:**
+
+Only the [header](http://sitepa.castorsang.odns.fr/) is mine
+
+### Day 32: February 06, 2017
+
+**Today's Progress**:
+
+* working on a header WordPress
+* positioned 2 blocks with flexbox (the telephone number and the icon)
+
+**Thoughts:**
+
+Flexbox is great, but not solve every positioning problems
+
+Some things you can do with this.
+
+**Notes:**
+
+* flexbox have a 3 great rules for the items:
+	* flex-grow: This defines the ability for a flex item to grow if necessary
+	* flex-shrink: This defines the ability for a flex item to shrink if necessary
+	* flex-basis: This defines the default size of an element before the remaining space is distributed
+* flex rule includes all this 3 rules: This is the shorthand for flex-grow, flex-shrink and flex-basis combined. The second and third parameters (flex-shrink and flex-basis) are optional. Default is 0 1 auto
+
+**Link to work:**
+
+Only the [header](http://sitepa.castorsang.odns.fr/) is mine
+
+### Day 33: February 07, 2017
+
+**Today's Progress**:
+
+* final test on a header WordPress
+* implemtation on the client site 
+
+**Thoughts:**
+
+Implementation dosn't easy
+
+Some things you can do with this.
+
+**Notes:**
+
+* Freelance work is no easy
+* Always had more time for the work
+* The client site configuration is not the same to your development site 
+
+**Link to work:**
+
+Only the [header](http://sitepa.castorsang.odns.fr/) is mine
+
+### Day 34: February 08, 2017
+
+**Today's Progress**:
+
+* working on my Web site
+* add new contact page
+
+**Thoughts:**
+
+Obstacle is the way
+
+**Notes:**
+
+* Multipages site is good for SEO
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+
 
 

@@ -733,5 +733,165 @@ Obstacle is the way
 
 [My website](https://patdef-webdesign.ch)
 
+### Day 35: February 09, 2017
+
+**Today's Progress**:
+
+* working on my Web site
+* working on home header
+
+**Thoughts:**
+
+Good feeling
+
+**Notes:**
+
+* Header full page is not easy to design
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+
+### Day 36: February 10, 2017
+
+**Today's Progress**:
+
+* working on my Web site
+* working on home header
+
+**Thoughts:**
+
+Good feeling
+
+**Notes:**
+
+* Header full page is not easy to design
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+
+### Day 37: February 11, 2017
+
+**Today's Progress**:
+
+* working on my Web site
+* working on home header
+* design desktop and mobile version
+
+**Thoughts:**
+
+Good feeling
+
+**Notes:**
+
+* Header full page is not easy to design
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+
+### Day 38: February 12, 2017
+
+**Today's Progress**:
+
+* working on my Web site
+* working on home header
+* design desktop and mobile version
+
+**Thoughts:**
+
+Good feeling
+
+**Notes:**
+
+* Header full page is not easy to design
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+
+### Day 39: February 13, 2017
+
+**Today's Progress**:
+
+* working on my Web site
+* working on home header
+* design desktop and mobile version
+
+**Thoughts:**
+
+Good feeling
+
+**Notes:**
+
+* Header full page is not easy to design
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+
+### Day 40: February 14, 2017
+
+**Today's Progress**:
+
+* working on my Web site
+* working on home header
+* design desktop and mobile version
+
+**Thoughts:**
+
+Good feeling
+
+**Notes:**
+
+* Header full page is not easy to design
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+
+### Day 41: February 15, 2017
+
+**Today's Progress**:
+
+* working on my Web site
+* working on home header
+* design desktop and mobile version
+* fix validation contact form
+
+**Thoughts:**
+
+Good feeling
+
+**Notes:**
+
+* Header full page is not easy to design
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+
+### Day 42: February 16, 2017
+
+**Today's Progress**:
+
+* working on my Web site
+* working on home header
+* design desktop and mobile version
+* fix validation contact form
+
+**Thoughts:**
+
+Good feeling
+
+**Notes:**
+
+* Header full page is not easy to design
+
+**Link to work:**
+
+[My website](https://patdef-webdesign.ch)
+
 
 
